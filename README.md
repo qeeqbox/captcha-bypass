@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/captcha-bypass/master/captcha-bypass.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/captcha-bypass/main/captcha-bypass.png"></p>
 
 An adversary may bypass the Completely Automated Public Turing test to tell Computers and Humans Apart (captcha) by breaking the solving logic, human-assisted solving services, or utilizing automated technology.
 
