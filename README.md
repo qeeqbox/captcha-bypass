@@ -38,7 +38,7 @@ To prevent CAPTCHA Bypass:
 - Adopt Multi-Layered Security: Combine CAPTCHA with additional security measures, such as rate limiting, account lockout policies, multi-factor authentication (MFA), IP reputation services, and bot detection systems. Relying on a single security control is not sufficient to prevent automated attacks.
 - Keep CAPTCHA Implementations Updated: Regularly update your CAPTCHA libraries and integrations to ensure you benefit from the latest security enhancements and protections against new attack techniques.
 
-## Example CAPTCHA Bypass
+## CAPTCHA Bypass Example
 Clone this current repo recursively
 ```sh
 git clone --recurse-submodules https://github.com/qeeqbox/captcha-bypass
